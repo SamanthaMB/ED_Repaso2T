@@ -93,6 +93,7 @@ public class Biblioteca {
      * @param autor eliges el autor que quieres buscar
      * @return devuelve el libro por el autor buscado
      */
+    @Deprecated
     public Libro encuentaLibroPorAutor(String autor) {
         for (Libro libro : libros) {
             if (libro.getAutor().equals(autor)) {
