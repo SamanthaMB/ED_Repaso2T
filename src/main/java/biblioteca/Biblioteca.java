@@ -9,7 +9,7 @@ import java.util.List;
  *
  * @see Libro
  * @author Samantha Mohedano
- * @version 4.3.2025
+ * @version 2.3.2025
  */
 
 public class Biblioteca {
